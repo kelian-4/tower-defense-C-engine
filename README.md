@@ -1,6 +1,6 @@
 # Tower Defense 🏰🛡️
 
-**Tower Defense** est un moteur de jeu minimaliste développé en langage **C** avec la bibliothèque **SDL2**. Ce projet a été réalisé en une semaine dans le cadre d'un projet d'études, avec pour objectif de créer une base solide et fonctionnelle pour un jeu de type Tower Defense.
+**Tower Defense C-engine** est un moteur de jeu minimaliste développé en langage **C** avec la bibliothèque **SDL2**. Ce projet a été réalisé en une semaine dans le cadre d'un projet d'études, avec pour objectif de créer une base solide et fonctionnelle pour un jeu de type Tower Defense.
 
 ## 🚀 Invitation à la Contribution
 
